@@ -1,0 +1,37 @@
+Laborator 1 Algoritmul DES/AES:
+
+Cerinţe:
+- Studierea algoritmului de criptare DES şi AES
+- Analiza comparativă a acestora
+- Realizarea unei aplicaţi de criptare ce va utiliza algoritmul DES sau AES
+
+
+Laborator 2 Algoritmul RSA:
+
+Cerinţe:
+- Studierea Algoritmului RSA
+- Calculul cheilor
+- Diferenţele între algoritmi simetrici şi asimetrici
+- Realizarea unei aplicaţi ce utilizează RSA ca metodă de criptare
+
+
+Laborator 3 Algoritmul DSA:
+
+Cerinţe:
+- Studierea noţiunii de semnătură digitală
+- Domeniul de aplicare
+- Metode de calcul
+- Dezvoltarea unei aplicaţi ce utilizează semnătura digitală
+
+
+Laborator 4 Algoritmi Combinaţi într-o aplicaţie complexă:
+
+Cerinţe:
+- Dezvoltarea unei aplicaţii complexe pe baza tuturor algoritmilor studiaţi anterior.
+- Ca exemplu de aplicaţie poate fi, Messenger Chat, Client-Server, Vault, Document Scanner, etc.
+
+
+
+
+
+
